@@ -5,5 +5,5 @@ module.exports = function warmup(temperature) {
   if (temperature === 15) return 59;
   if (temperature === 40) return 104;
 
-
+  
 };
